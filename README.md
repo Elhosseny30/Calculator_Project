@@ -41,6 +41,3 @@ The code for this project is written in C and compiled using AVR-GCC. The code i
 ## Future Enhancements
 - Support for floating-point arithmetic.
 - Error handling for cases like division by zero, invalid input, or overflow.
-
-## License
-This project is open-source and available under the MIT License.
